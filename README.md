@@ -2,3 +2,11 @@
 This repository is for 2nd time practicing github
 This is a copy of main repositary
 For learning to use commit changes i am going to click on commit changes with commit change message
+
+# git vs code practice
+
+Praticing git in cloning it in vs code by coping git file into vs-> git clone [with clone url from github].
+change file directory with cd [name of the file].
+ls for listing the file.
+ls -la for listing hidden .git files.
+git status to see change are scommited in git or not
