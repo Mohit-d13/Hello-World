@@ -10,3 +10,5 @@ change file directory with cd [name of the file].
 ls for listing the file.
 ls -la for listing hidden .git files.
 git status to see change are scommited in git or not
+use git add to change files in git
+and use git commit with -m for message for saving newly created git file or changes in git file 
