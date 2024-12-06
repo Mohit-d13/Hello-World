@@ -17,5 +17,5 @@ and use git commit with -m for message for saving newly created git file or chan
 2.Type git checkout -b [name of new branch] to create new branches.
 3.Switch between branches by typing git checkout [name of branch].
 4.Save changes in new branch by add and commit.
-5.Check difference between branches by git diff command.
+5.Check difference between branches by git diff [name of the branch] command.
 4.Make push request by git push -u [name of branch].
